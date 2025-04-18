@@ -1,0 +1,42 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.env
+.env.local
+.env.*.local
+
+# Next.js
+.next/
+out/
+build/
+.next-env.d.ts
+
+# React
+/build
+/node_modules
+/.pnp
+.pnp.js
+/coverage
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Project specific
+nextDir/next-app/.next/
+nextDir/next-app/node_modules/
+nodeDir/node_modules/
+reactDir/node_modules/
